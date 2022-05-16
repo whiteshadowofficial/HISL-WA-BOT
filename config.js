@@ -1,16 +1,16 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2022 Mr.White Shadow Ofc.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+Hisl Wa Bot - White Shadow
 */
 
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
-// Özel Fonksiyonlarımız
+// Hackers in Sri lanka Ofc
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
