@@ -108,7 +108,7 @@ and we will try to help you.
 
  [![Mr.White-Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Hacker-Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) | [![Virus-Fucker](https://github.com/virusfucker.png?size=100)](https://github.com/virusfucker) |
 ----|----|----|
-[Mr.White-Shadow](https://github.com/whiteshadowofficial)  | [Hacker-Pancha](https://github.com/HackerPancha) | [En-Cuzier2](https://github.com/virusfucker) |
+[Mr.White-Shadow](https://github.com/whiteshadowofficial)  | [Hacker-Pancha](https://github.com/HackerPancha) | [Virus-Fucker](https://github.com/virusfucker) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
 
 ## ✨ Special Features ✨
