@@ -37,7 +37,7 @@
 
 <div align="center">
   
-## 💫 Deploy & Run Queen Alexa 💫
+## 💫 Deploy & HISL WA BOT 💫
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Nightbot2O/baileys-qr?v=1)
 
