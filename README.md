@@ -38,6 +38,7 @@
 <div align="center">
   
 ## 💫 Deploy & Run Queen Alexa 💫
+
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Nightbot2O/baileys-qr?v=1)
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
