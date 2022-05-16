@@ -16,7 +16,7 @@ Project by Mr.White Shadow and Hacker Pancha
 
   </a>
 <p align="center">
-  <a href="Heroku.com/deploy?template=https://github.com/whiteshadowofficial/HISL-WA-BOT">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhiteshadowofficial%2FHISL-WA-BOT">
     <img src="https://img.shields.io/static/v1?label=Deploy this repo&message=Click this now&color=blue&style=plastic">
 
   </a>
